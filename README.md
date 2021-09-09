@@ -1,4 +1,4 @@
-# Refactored MIDD dataset for Named Entity Recognition (NER) on Invoice documents 
+# Merged MIDD dataset for Named Entity Recognition (NER) on Invoice documents 
 
 Attempt to merge all `.csv` files of the MIDD dataset into a single file stored in the JSON format.
 
