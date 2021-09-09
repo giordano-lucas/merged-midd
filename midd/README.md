@@ -1,14 +1,9 @@
-**************Information on how to use our Multi-layout Invoice Document Dataset (MIDD) : A Dataset for Named Entity Recognition************
+#  Information on how to use our Multi-layout Invoice Document Dataset (MIDD) : A Dataset for Named Entity Recognition
 
-Folder name: MIDD IOB 
+######
+
 Inside this folder there are Four Layout Invoices IOB from four different suppliers.
 IOB files are transformed into .csv extension so that you can use it readily for model training.
-
-
-Layout 1:      .csv files
-Layout 2:        .csv files
-Layout 3:       .csv files
-Layout 4:      .csv files
 
 | Layout   |      Number of `.csv` files      | 
 |----------|---------------------------------:|
