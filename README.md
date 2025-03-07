@@ -47,5 +47,5 @@ Each row of the final dataset corresponds to a CSV-document in the MIDD dataset 
 ```
 
 
-https://d24mxxyiysqjwg.cloudfront.net/gifs/v1.gif
+![Demo GIF](https://d24mxxyiysqjwg.cloudfront.net/gifs/v1.gif)
 
